@@ -1,0 +1,11 @@
+Adderall, amphetamine, dextroamphetamine saccharate, VitalCorp, Watchlist Drug, ADHD, Lexapro
+
+Opana, Oxymorphone, titanium dioxide, Endo Pharmaceuticals, Watchlist Drug, condition, Naltrexone
+
+Demerol, Meperidine, methyl phenyl, SPECGX LLC, Watchlist Drug, condition, Monoamine 
+
+Lipitor, Atorvastatin, dihydroxy, Pfizer, Not Watchlist Drug, condition, Aliskiren
+
+Zoloft, Dichlorophenyl, Sertraline Hydrochloride, Pfizer, Watchlist Drug, condition, Methylene
+
+Vicodin, Acetaminophen, Acetaminophen Hydrocodone, AbbVie Inc., Watchlist Drug, condition, Erythmycin
